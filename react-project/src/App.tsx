@@ -1,7 +1,10 @@
-function App() { 
+import { TaskOverView } from "./Task/TaskOverview";
+
+export default function App() { 
     return (
-      <h1>Project setup</h1>
+      <div>
+        <h1>Task Overview</h1>
+        <TaskOverView />        
+      </div>
   )   
 }
-
-export default App

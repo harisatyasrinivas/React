@@ -25,7 +25,3 @@ npm install semantic-ui-react semantic-ui-css
 
 ### Commits
 
-
-
-
-
