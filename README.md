@@ -17,11 +17,14 @@ Install dependecies and run the project
 npm install
 npm run dev
 
-list of depencies 
+list of dependencies 
 npm install axios
 npm install semantic-ui-react semantic-ui-css
+npm install @mui/material @emotion/react @emotion/styled
+npm install @fontsource/roboto
+npm install @mui/icons-material
 
 ## Developer Notes
 
-### Commits
+1.<Fragment> or <> can be used instead of empty div [from Material ui node package]
 
